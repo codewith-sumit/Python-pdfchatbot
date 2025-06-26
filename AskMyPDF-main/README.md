@@ -7,7 +7,7 @@
 
 ### 🔗 Live Repo
 
-[GitHub: axixatechnologies/AskMyPDF](https://github.com/axixatechnologies/AskMyPDF)
+[GitHub: codewith-sumit/AskMyPDF](https://github.com/codewith-sumit/Python-pdfchatbot)
 
 ---
 
